@@ -1,0 +1,17 @@
+==============================================================================
+Testcases                                                                     
+==============================================================================
+Testcases.LoginTestcaseDemo                                                   
+==============================================================================
+LoginTestDemo                                                         Login: Mercury Tours
+| PASS |
+------------------------------------------------------------------------------
+Testcases.LoginTestcaseDemo                                           | PASS |
+1 critical test, 1 passed, 0 failed
+1 test total, 1 passed, 0 failed
+==============================================================================
+Testcases                                                             | PASS |
+1 critical test, 1 passed, 0 failed
+1 test total, 1 passed, 0 failed
+==============================================================================
+Output:  E:\vidyaWorkspace482020\RobotFramework_python\Projects\pythonProject_Robot\pabot_results\0\output.xml

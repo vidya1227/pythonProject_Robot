@@ -1,0 +1,45 @@
+Chrome Driver path:   C:/WebDrivers/chromedriver.exe
+
+Run tests like = robot foldername\testcasename.robot
+Example: robot Testcases\TC1.robot
+
+robot Testcases\
+
+Demo URL of the Websites:
+http://demo.nopcommerce.com/
+http://www.practiceselenium.com/practice-form.html
+http://demowebshop.tricentis.com/
+http://testautomationpractice.blogspot.com/
+http://demo.automationtesting.in/Windows.html
+https://opensource-demo.orangehrmlive.com/
+https://www.selenium.dev/selenium/docs/api/java/index.html?overview-summary.html
+https://swisnl.github.io/jQuery-contextMenu/demo.html
+http://www.dhtmlgoodies.com/scripts/drag-drop-custom/demo-drag-drop-3.html
+http://demo.guru99.com/test/newtours/
+https://www.countries-ofthe-world.com/flags-of-the-world.html
+
+
+Tagging tests execution
+1.	'robot --include=GROUPNAME TestcaseName'
+EX: robot --include=sanity FrameworkBasics/TaggingGrouping.robot
+robot --include=smoke FrameworkBasics/TaggingGrouping.robot
+2. robot -i sanity -i regression Testname
+EX: robot -i sanity -i regression FrameworkBasics/TaggingGrouping.robot
+3. robot -e regression FrameworkBasics/TaggingGrouping.robot
+4. robot -i sanity -e regression FrameworkBasics/TaggingGrouping.robot
+
+
+Test execution in robot framework---------------------------------------------
+1. robot POMDemo\Testcases\
+2. robot Test*.robot
+3. robot *.robot
+
+Parallel test execution in robot framework--------
+pip install -U robotframework-pabot
+pabot --proceses 2 --outputdir TestResults POMDemo\Testcases\
+
+Save robot reports in the location-----------------
+robot  --outputdir Reports POMDemo\Testcases\
+
+
+
