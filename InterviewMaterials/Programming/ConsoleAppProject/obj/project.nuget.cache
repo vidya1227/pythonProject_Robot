@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cbQx8/J1GsQFqE7OO3DVhDWQ4lXwSuS2aBZr5JTny05ssbs3AJrBfd9oaAciKVwWz5heddXqm7LasqbkgbxrAA==",
+  "success": true,
+  "projectFilePath": "E:\\vidyaWorkspace482020\\InterviewMaterials\\Programming\\ConsoleAppProject\\ConsoleAppProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vidya\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\vidya\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\vidya\\.nuget\\packages\\nunit\\3.13.1\\nunit.3.13.1.nupkg.sha512"
+  ],
+  "logs": []
+}
